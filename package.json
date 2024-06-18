@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "@flashbots/ethers-provider-bundle": "0.4.1",
-    "ethers": "5.4.5"
+    "ethers": "6.0.0"
   }
 }
